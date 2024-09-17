@@ -1,6 +1,8 @@
 # Proceso de Preprocesamiento de Datos
-
-Este README describe los pasos realizados en el proceso de preprocesamiento de datos, los gráficos generados y las decisiones tomadas.
+## Elaborado por
+Marcos Ulises Sánchez.
+## Docente
+Msc. Arlen López.
 
 ## 1. Exploración Inicial
 Se cargó el dataset, se identificaron las columnas clave y se realizó una exploración de las estadísticas descriptivas para entender mejor la estructura de los datos. Las columnas principales fueron:
